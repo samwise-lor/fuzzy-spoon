@@ -1,0 +1,12 @@
+Installtaion Guide
+
+Installation and Deployment Guide template information
+This section is provided to give information on this version of the document template. After inspection, delete this template information section from your final document.
+The purpose of this document is to provide the System Administrator or any other technical stakeholder with a complete and easy to customize template designed specifically for the Technical Domain. It is intended to provide installation instructions to any stakeholder that has an interest or a role in the project. 
+How to use this template
+This template is composed of a main structure that contains a brief description of each section plus a sample from an existing project. 
+This document contains comments to the author with guidelines on using or revising the document. These are included throughout in blue and italic. These instructions should be deleted from the finalized document.
+This template contains example text to illustrate the type of information that goes in each section. Be careful to remove the samples that do not apply to your project. 
+Templates are prepared with line numbers turned on and the (DRAFT) designation in the footers. In the final copy to be signed, line numbers should be turned off and the (DRAFT) removed.
+Document Responsibilities
+The Installation and Deployment Guide is first created in the Deployment process step. Responsibilities for document creation and content are shown in the RACI  chart 
